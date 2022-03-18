@@ -1,0 +1,5 @@
+*               @merge_team
+README.md       @xyz
+*.js            @frontend_team
+docs/*          @doc_team
+CODEOWNERS      @admin_team
